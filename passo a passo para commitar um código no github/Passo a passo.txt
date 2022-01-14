@@ -1,0 +1,15 @@
+Passo a passo:
+
+Criar uma pasta
+
+criar um arquivo .txt
+
+abrir o GIT
+
+seguir a sequência:
+
+git add. ou git add -a ou git add *
+
+git commit
+
+git push 
