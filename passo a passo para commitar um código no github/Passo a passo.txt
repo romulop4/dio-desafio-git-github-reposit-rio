@@ -10,6 +10,6 @@ seguir a sequência:
 
 git add. ou git add -a ou git add *
 
-git commit
+git commit -m "Adicionando os passos para o commit"
 
-git push 
+git push origin main
