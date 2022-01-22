@@ -2,11 +2,12 @@ Passo a passo:
 
 Criar uma pasta
 
-criar um arquivo .txt
+criar um arquivo
 
-abrir o GIT
+abrir o GIT na pasta que se quer criar o repositório
 
 seguir a sequência:
+
 
 git add. ou git add -a ou git add *
 
